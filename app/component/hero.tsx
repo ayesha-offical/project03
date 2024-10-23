@@ -1,7 +1,7 @@
-import Image from "next/image";
+
 import Header from "./header";
 import Link from "next/link"
-import pic from "@/app/asserts/pic.png";
+
 
 const Hero = () => {
   return (

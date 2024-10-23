@@ -1,6 +1,5 @@
 import Link from "next/link"
-import About from "./about"
-import Contact from "./contact"
+
 
 const Header = () => {
   return (
@@ -21,7 +20,6 @@ const Header = () => {
           </ul>
         </nav>
         </header>
-
         </>
    
   )

@@ -3,7 +3,7 @@
 const Contact = () => {
   return (
     <>
-    <div className= " bg-gradient-to-r from-cyan-300 to-blue-200  h-svh ">
+    <div className= " bg-gradient-to-r from-cyan-300 to-blue-200  h-full ">
         <h1 className="font-extrabold text-5xl flex justify-center pt-10">
             Contact Us
         </h1>

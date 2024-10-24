@@ -1,7 +1,7 @@
 const About = () => {
   return (
     <>
-      <div className="  bg-gradient-to-r from-cyan-200 to-blue-300  h-full ">
+      <div className="  bg-gradient-to-r from-cyan-200 to-blue-300  h-full  pb-9">
         <h1 className=" font-extrabold text-5xl flex justify-center pt-10">
           About Our Editors
         </h1>
@@ -20,7 +20,7 @@ const About = () => {
        
           Sublime Text
         </h2>
-        <p className="mt-3 font-semibold text-2xl mr-96 ml-96 text-center ">
+        <p className=" mt-3 font-semibold text-2xl mr-96 ml-96 text-center ">
           It natively supports many programming languages and markup languages.
           Users can customize it with themes and expand its functionality with
           plugins, typically community-built and maintained under free-software

@@ -8,7 +8,7 @@ const Hero = () => {
     <>
      <Header></Header>
 
-    <div className="bg-gradient-to-r from-cyan-300 to-blue-200  h-full">
+    <div className="bg-gradient-to-r from-cyan-300 to-blue-200  h-svh">
       <h1 className=" ml-28 flex-start font-bold text-7xl pt-40 pb-2">Make Your Code 
         </h1>
         <span className=" font-bold pl-28 text-7xl text-blue-950">Perfect.Better.Instantly.</span>

@@ -10,7 +10,7 @@ const About = () => {
         </h2>
         <p className="mt-3 font-semibold text-2xl mr-96 ml-96 text-center ">
           Here are some cool things about VS Code: IntelliSense helps you write
-          code faster by predicting what you'll type next. Git support means you
+          code faster by predicting what you&apos;ll type next. Git support means you
           can keep track of changes in your code without leaving the editor. You
           can add extensions to do even more, like work with different
           programming languages or tools.
